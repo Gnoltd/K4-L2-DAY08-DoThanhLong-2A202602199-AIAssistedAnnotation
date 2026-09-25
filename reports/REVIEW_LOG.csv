@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe ở rất xa trong vùng tối AI không nhận diện được,added,Xe quá xa và trời quá tối nên AI bỏ sót; tôi vẽ thêm khung ôm phần thân và đèn còn nhìn thấy theo GUIDELINE_LABEL.md
+1,frame_0182.jpg,3 xe ở phía bên phải ảnh bị gộp chung vào 1 khung,edited,Mỗi xe phải có một khung riêng nên tôi bỏ khung gộp và tách thành 3 khung ôm sát từng xe
+1,frame_0270.jpg,cả dàn xe bên tay trái bị gộp chung nhiều xe vào 1 khung,edited,Hai xe sát nhau phải có hai khung riêng nên tôi tách khung gộp thành từng khung ôm sát từng xe
